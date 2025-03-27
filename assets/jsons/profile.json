@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Account Settings",
+    "image": "assets/images/accountsettings.png"
+  },
+  {
+    "title": "Orders",
+    "image": "assets/images/myorders.png"
+  },
+  {
+    "title": "Notifications",
+    "image": "assets/images/notification.png"
+  },
+  {
+    "title": "Refer & Earn",
+    "image": "assets/images/discount.png"
+  },
+  {
+    "title": "Message Center",
+    "image": "assets/images/messenger.png"
+  },
+  {
+    "title": "Earn with SYOPI",
+    "image": "assets/images/syopepoints.png"
+  },
+  {
+    "title": "Feedback & Information",
+    "image": "assets/images/about.png"
+  },
+  {
+    "title": "More",
+    "image": "assets/images/settings.png"
+  },
+  {
+    "title": "Logout",
+    "image": "assets/images/logout.png"
+  }
+]
+  
